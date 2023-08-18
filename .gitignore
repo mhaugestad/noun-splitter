@@ -1,0 +1,6 @@
+secos/models/data/*.json
+*.tar.gz
+evaluation/wiktionary/*
+evaluation/output/*
+__pycache__
+.DS_Store
