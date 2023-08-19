@@ -38,7 +38,7 @@ The command line tool also takes an optional argument --overwrite. This is to be
 Alternatively, you can download models directly from a python script or notebook like this:
 
 ```
-from noun_splitter.secos import Decomposition
+from secos import Decomposition
 
 Decomposition.download_model('de')
 ```
